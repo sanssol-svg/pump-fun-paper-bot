@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+paper_log.csv
+paper_log_v2.csv
+paper_state.json
+paper_state_v2.json
